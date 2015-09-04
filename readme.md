@@ -15,3 +15,5 @@ Power
  * [Female DC Power adapter - 2.1mm jack to screw terminal block](http://www.adafruit.com/product/368 )
  * [5V 2A (2000mA) switching power supply](http://www.adafruit.com/products/276 )
  * [74AHCT125 - Quad Level-Shifter (3V to 5V)](http://www.adafruit.com/product/1787 )
+ * Pin out http://elinux.org/RPi_Low-level_peripherals#P1_Header
+ 
