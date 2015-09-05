@@ -17,3 +17,4 @@ Power
  * [74AHCT125 - Quad Level-Shifter (3V to 5V)](http://www.adafruit.com/product/1787 )
  * Pin out http://elinux.org/RPi_Low-level_peripherals#P1_Header
  
+See [strandtest.py](https://github.com/jgarff/rpi_ws281x/blob/master/python/examples/strandtest.py) in action [https://youtu.be/K2sVouSRRnA](https://youtu.be/K2sVouSRRnA)
