@@ -18,3 +18,7 @@ Power
  * Pin out http://elinux.org/RPi_Low-level_peripherals#P1_Header
  
 See [strandtest.py](https://github.com/jgarff/rpi_ws281x/blob/master/python/examples/strandtest.py) in action [https://youtu.be/K2sVouSRRnA](https://youtu.be/K2sVouSRRnA)
+
+Handy links I used to setup my #raspberrypi
+ * [Exposing Raspberry Pi’s network setting files to /boot so that they are visible on a PC | Martin's corner on the web](https://harizanov.com/2014/09/exposing-raspberry-pis-network-setting-files-to-boot-so-that-they-are-visible-on-a-pc/)
+ * [TechJawab.com: Setup Dynamic DNS / DynDNS for *FREE* on Raspberry Pi / Ubuntu](http://www.techjawab.com/2013/06/setup-dynamic-dns-dyndns-for-free-on.html)
