@@ -22,3 +22,4 @@ See [strandtest.py](https://github.com/jgarff/rpi_ws281x/blob/master/python/exam
 Handy links I used to setup my #raspberrypi
  * [Exposing Raspberry Pi’s network setting files to /boot so that they are visible on a PC | Martin's corner on the web](https://harizanov.com/2014/09/exposing-raspberry-pis-network-setting-files-to-boot-so-that-they-are-visible-on-a-pc/)
  * [TechJawab.com: Setup Dynamic DNS / DynDNS for *FREE* on Raspberry Pi / Ubuntu](http://www.techjawab.com/2013/06/setup-dynamic-dns-dyndns-for-free-on.html)
+ * [Repairing Raspberry Pi SD holder | Bald Wisdom](http://baldwisdom.com/repairing-raspberry-pi-sd-holder/)
